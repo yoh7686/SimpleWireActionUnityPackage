@@ -8,6 +8,9 @@
 3. ダウンロードしたSimpleWireAction.unitypackageを選択します
 4. インポートが終わったらScenes / WireSample.unity を開くとサンプルシーンを動かすことができます
 
+以下のURLでサンプルプロジェクトをブラウザでプレイできます。
+https://play.unity.com/ja/games/d5f290cd-57cc-48c6-99ea-31d643070a02/simplewireactionwithhinge2d
+
 ---
 
 ## Project Structure
